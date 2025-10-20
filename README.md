@@ -61,8 +61,9 @@ Jika Anda ingin menjalankannya melalui server lokal:
 
 ## Pembuat
 
-**Nama:** Luthfy Arief
-**Program Studi:** Teknik Informatika
+**Nama:** Luthfy Arief   
+**NIM:** 23552011045   
+**Kelas:** TIF RP-23 CNS A   
 **Kampus:** Universitas Teknologi Bandung
 
 ---
